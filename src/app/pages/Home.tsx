@@ -71,7 +71,7 @@ export function Home() {
             />
             <Reveal delay={0.2} className="mt-8 max-w-xl text-pretty text-[17px] leading-relaxed text-muted">
               <p>
-                Maps have to line up, records have to add up, and design has to be right the first time. I have worked with a government agency, an advertising studio and a data company, and since 2024 I teach computer studies part-time at the University of Antique.
+                Maps have to line up, records have to add up, and design has to be right the first time. I have worked with a government agency, an advertising studio, a data company and an insurance branch, and from 2024 to 2025 I taught computer studies part-time at the University of Antique.
               </p>
               <p className="mt-4">I work from Laua-an in {site.location}, on map processing, data and design, usually on one long job at a time.</p>
             </Reveal>
